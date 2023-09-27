@@ -1,9 +1,7 @@
 # Persian_News_Classification
-# News Classification Project
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Dataset](#dataset)
 - [Usage](#usage)
 
 ## Introduction
